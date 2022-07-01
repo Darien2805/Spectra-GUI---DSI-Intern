@@ -6,7 +6,7 @@ the 'save' button is clicked.
 
 ## What does the GUI do? ##
 1. The user will need to select the folder that all the data files are stored by clicking the 'browse' button
-![Image 1](images/Picture1.jpg)
+![Image 1](Images/Picture1.jpg)
 
 2. When the "consolidate" button is pressed and an odd number in input under the "window  size" entry box, an image will be displayed
 ![Image 2](images/Picture2.jpg)
