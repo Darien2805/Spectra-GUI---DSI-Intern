@@ -12,13 +12,12 @@ the 'save' button is clicked.
 ![Image 2](Images/Picture2.jpg)
 
 3. If the user wish to save the image in an array format, the 'save' button has to be clicked.
-![Image 3](Images/Picture3.jpg)  
+![Image 3](Images/Picture3.jpg)    
 The file will be save into 'dat' format for the user to see the results
 ![Image 4](Images/Picture4.jpg)
 
 4. When the 'plot' button is pressed, the graph will be plotted according to the first file and the local maximum points will be marked as a red dot.
-![Image 5](Images/Picture5.jpg)  
-
+![Image 5](Images/Picture5.jpg)    
 The graphs are smooth and interpolated with the help of algorithms to determine the local  maximum point. In addition, the file in which is plotting is being highlighted on the image
 
 5. The 'Next' and 'Previous' button will plot the graph according to the file that the user wish to see
@@ -28,7 +27,7 @@ The graphs are smooth and interpolated with the help of algorithms to determine 
 ![Image 7](Images/Picture7.jpg)
 ![Image 8](Images/Picture8.jpg)
 
-7.	Mouse events of left and right click will add and remove the local max points to the user's necessity.
+7.	Mouse events of left and right click will add and remove the local max points to the user's necessity.  
 **Example of Addition.**
 
 | Before        | After         |
