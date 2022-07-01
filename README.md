@@ -32,7 +32,7 @@ The graphs are smooth and interpolated with the help of algorithms to determine 
 
 | Before        | After         |
 | --- | --- |
-| ![Image 9](Images/Picture9.jpg) | ![Image 10](Images/Picture10.jpg) |
+| ![Image 9](Images/Picture9.jpg) | ![Image 10](Images/Picture10.jpg) |  
 
 **Example of Removing.**
 
