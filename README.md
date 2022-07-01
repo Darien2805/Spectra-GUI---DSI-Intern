@@ -6,24 +6,23 @@ the 'save' button is clicked.
 
 ## What does the GUI do? ##
 1. The user will need to select the folder that all the data files are stored by clicking the 'browse' button
-![Image 1](Images/Picture1.jpg)_
+![Image 1](Images/Picture1.jpg)
 
 2. When the "consolidate" button is pressed and an odd number in input under the "window  size" entry box, an image will be displayed
-![Image 2](Images/Picture2.jpg)_
+![Image 2](Images/Picture2.jpg)
 
 3. If the user wish to save the image in an array format, the 'save' button has to be clicked.
-![Image 3](Images/Picture3.jpg)_
-<br>
+![Image 3](Images/Picture3.jpg)  
 The file will be save into 'dat' format for the user to see the results
-![Image 4](Images/Picture4.jpg)_
+![Image 4](Images/Picture4.jpg)
 
 4. When the 'plot' button is pressed, the graph will be plotted according to the first file and the local maximum points will be marked as a red dot.
-![Image 5](Images/Picture5.jpg)_
-<br>
+![Image 5](Images/Picture5.jpg)  
+
 The graphs are smooth and interpolated with the help of algorithms to determine the local  maximum point. In addition, the file in which is plotting is being highlighted on the image
 
 5. The 'Next' and 'Previous' button will plot the graph according to the file that the user wish to see
-![Image 6](Images/Picture6.jpg)_
+![Image 6](Images/Picture6.jpg)
 
 6. When clicking 'save', it saves not only  the local maximum points, but also the graph plot as an array.
 ![Image 7](Images/Picture7.jpg)
