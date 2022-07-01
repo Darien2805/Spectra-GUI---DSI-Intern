@@ -28,13 +28,13 @@ The graphs are smooth and interpolated with the help of algorithms to determine 
 ![Image 8](Images/Picture8.jpg)
 
 7.	Mouse events of left and right click will add and remove the local max points to the user's necessity.  
-**Example of Addition.**
+**Example of Addition.**  
 
 | Before        | After         |
 | --- | --- |
 | ![Image 9](Images/Picture9.jpg) | ![Image 10](Images/Picture10.jpg) |  
 
-**Example of Removing.**
+**Example of Removing.**  
 
 | Before        | After         |
 | --- | --- |
